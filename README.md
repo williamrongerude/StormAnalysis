@@ -6,4 +6,4 @@ How to develop a supervised regression model with publicly available data.
 3. Training, Testing and Modeling
 4. Evaluation
 
-Inspired by own endeavours with publicly available storm data, engineering my own model to achieve successful, model deployable metrics that you can achieve as well!
+Inspired by own endeavours with publicly available storm data. Achieving successful, model deployable metrics is very possible for anyone who is looking to find patterns and solutions to problems, even ones who've never touched Python in their life.
