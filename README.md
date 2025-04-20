@@ -13,4 +13,4 @@ Achieving successful, model deployable metrics is very possible for anyone who i
 
 Written by William Rongerude, for educational purposes and presentation of the Storm Analysis Model.
 <br><br>
-<img src='assets/motivatedDataScientist.png' width='350'>
+<img src='assets/motivatedDataScientist.png' width='400'>
