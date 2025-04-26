@@ -18,6 +18,8 @@ Written by William Rongerude, for educational purposes and presentation of the S
 
 <div align="center">
   
+<div style="margin-left: 20%;">
+  
 *All rights reserved*
 
 </div>
