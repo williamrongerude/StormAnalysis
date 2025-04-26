@@ -16,4 +16,5 @@ Written by William Rongerude, for educational purposes and presentation of the S
 <br><br>
 <img src='assets/motivatedDataScientist.png' width='400'>
 
-*© 2025 Rongerude. All rights reserved.*
+***© 2025 Rongerude. All rights reserved.*
+**
